@@ -1,0 +1,486 @@
+Man of the match: Axar Patel
+---------------------------------------------------------------------------------------------------
+
+Session_20260611_104028:
+
+A innings 27.5 overs
+159/10
+
++----------------+------+-------+----+----+--------+---------+
+|    Batsman     | Runs | Balls | 4s | 6s |   SR   | Status  |
++----------------+------+-------+----+----+--------+---------+
+|   Adam Zampa   |  8   |  12   | 1  | 0  | 66.67  |   out   |
+|   Alex Carey   |  3   |   5   | 0  | 0  |  60.0  |   out   |
+|  Ashton Agar   |  5   |  10   | 1  | 0  |  50.0  |   out   |
+|   Axar Patel   |  67  |  69   | 3  | 1  |  97.1  |   out   |
+| Cameron Green  |  3   |   6   | 0  | 0  |  50.0  |   out   |
+|  David Warner  |  31  |  24   | 2  | 2  | 129.17 |   out   |
+| Glenn Maxwell  |  2   |   5   | 0  | 0  |  40.0  |   out   |
+| Hardik Pandya  |  28  |  28   | 3  | 0  | 100.0  |   out   |
+|  Ishan Kishan  |  0   |   1   | 0  | 0  |  0.0   |   out   |
+| Jasprit Bumrah |  1   |   4   | 0  | 0  |  25.0  |   out   |
+|    Joe Root    |  1   |   1   | 0  | 0  | 100.0  | not out |
++----------------+------+-------+----+----+--------+---------+
+Extras: 1 nb, 1 wd, 2 lb, 1 b
+Fall of wickets: 14/1 (1.1 ov), 20/2 (1.5 ov), 21/3 (2.1 ov), 29/4 (3.4 ov), 80/5 (7.4 ov), 84/6 (8.3 ov), 151/7 (15.3 ov), 155/8 (16.0 ov), 158/9 (16.4 ov), 159/10 (17.0 ov)
+Partnerships: 
++----------------+------------+------+-------+
+|   Batsman 1    | Batsman 2  | Runs | Balls |
++----------------+------------+------+-------+
+|   Adam Zampa   | Alex Carey |  14  |  14   |
+|  Ashton Agar   | Alex Carey |  6   |  13   |
+|   Alex Carey   | Axar Patel |  1   |   2   |
+| Cameron Green  | Axar Patel |  8   |  12   |
+|  David Warner  | Axar Patel |  51  |  42   |
+| Glenn Maxwell  | Axar Patel |  4   |   9   |
+| Hardik Pandya  | Axar Patel |  67  |  64   |
+|  Ishan Kishan  | Axar Patel |  4   |   4   |
+| Jasprit Bumrah | Axar Patel |  3   |   6   |
+|   Axar Patel   |  Joe Root  |  1   |   2   |
+|   Axar Patel   |  Joe Root  |  0*  |   0   |
++----------------+------------+------+-------+
+Bowling: 
++----------------+-------+---------+------+---------+----------+-------+
+|     Bowler     | Overs | Maidens | Runs | Wickets | No balls | Wides |
++----------------+-------+---------+------+---------+----------+-------+
+| Kuldeep Yadav  |  1.0  |    0    |  4   |    0    |    0     |   0   |
+| Marcus Stoinis |  2.0  |    0    |  17  |    0    |    0     |   0   |
+| Mitchell Marsh |  3.0  |    0    |  11  |    0    |    0     |   1   |
+| Mohammed Shami |  5.0  |    0    |  24  |    4    |    0     |   0   |
+| Mohammed Siraj |  8.0  |    0    |  49  |    2    |    1     |   0   |
+|  Pat Cummins   |  8.5  |    0    |  46  |    4    |    0     |   0   |
++----------------+-------+---------+------+---------+----------+-------+
+
+
+B innings 24.4 overs
+161/5
+
++--------------------+------+-------+----+----+--------+---------+
+|      Batsman       | Runs | Balls | 4s | 6s |   SR   | Status  |
++--------------------+------+-------+----+----+--------+---------+
+|   Josh Hazlewood   |  44  |  36   | 5  | 1  | 122.22 |   out   |
+|    Josh Inglis     |  13  |  13   | 2  | 0  | 100.0  |   out   |
+|      KL Rahul      |  44  |  36   | 2  | 0  | 122.22 |   out   |
+|   Kuldeep Yadav    |  18  |  32   | 0  | 0  | 56.25  | not out |
+|   Marcus Stoinis   |  0   |   1   | 0  | 0  |  0.0   |   out   |
+| Marnus Labuschagne |  15  |  19   | 0  | 0  | 78.95  |   out   |
+|   Mitchell Marsh   |  18  |   9   | 1  | 2  | 200.0  | not out |
++--------------------+------+-------+----+----+--------+---------+
+Did not bat: Mitchell Starc, Mohammed Shami, Mohammed Siraj, Pat Cummins
+Extras: 1 nb, 1 wd, 3 lb, 0 b
+Fall of wickets: 29/1 (2.1 ov), 84/2 (6.1 ov), 119/3 (10.1 ov), 120/4 (10.3 ov), 140/5 (13.1 ov)
+Partnerships: 
++--------------------+----------------+------+-------+
+|     Batsman 1      |   Batsman 2    | Runs | Balls |
++--------------------+----------------+------+-------+
+|    Josh Inglis     | Josh Hazlewood |  29  |  24   |
+|   Josh Hazlewood   |    KL Rahul    |  55  |  43   |
+|      KL Rahul      | Kuldeep Yadav  |  35  |  36   |
+|   Marcus Stoinis   | Kuldeep Yadav  |  1   |   4   |
+| Marnus Labuschagne | Kuldeep Yadav  |  20  |  26   |
+|   Mitchell Marsh   | Kuldeep Yadav  |  21  |  16   |
++--------------------+----------------+------+-------+
+Bowling: 
++----------------+-------+---------+------+---------+----------+-------+
+|     Bowler     | Overs | Maidens | Runs | Wickets | No balls | Wides |
++----------------+-------+---------+------+---------+----------+-------+
+|   Adam Zampa   |  3.4  |    0    |  29  |    0    |    0     |   0   |
+| Glenn Maxwell  | 10.0  |    0    |  59  |    3    |    0     |   0   |
+| Hardik Pandya  | 10.0  |    0    |  61  |    2    |    1     |   1   |
+| Jasprit Bumrah |  1.0  |    0    |  5   |    0    |    0     |   0   |
++----------------+-------+---------+------+---------+----------+-------+
+
+B won the match by 5 wickets
+
+Man of the match: Alex Carey
+---------------------------------------------------------------------------------------------------
+
+Session_20260611_104028:
+
+A innings 50.0 overs
+306/6
+
++---------------+------+-------+----+----+--------+---------+
+|    Batsman    | Runs | Balls | 4s | 6s |   SR   | Status  |
++---------------+------+-------+----+----+--------+---------+
+|  Adam Zampa   |  74  |  92   | 4  | 0  | 80.43  |   out   |
+|  Alex Carey   | 102  |  78   | 10 | 1  | 130.77 |   out   |
+|  Ashton Agar  |  19  |  27   | 1  | 0  | 70.37  |   out   |
+|  Axar Patel   |  2   |   2   | 0  | 0  | 100.0  |   out   |
+| Cameron Green |  9   |  22   | 0  | 0  | 40.91  |   out   |
+| David Warner  |  28  |  24   | 4  | 0  | 116.67 |   out   |
+| Glenn Maxwell |  32  |  31   | 4  | 0  | 103.23 | not out |
+| Hardik Pandya |  19  |  17   | 0  | 0  | 111.76 | not out |
++---------------+------+-------+----+----+--------+---------+
+Did not bat: Ishan Kishan, Jasprit Bumrah, Joe Root
+Extras: 2 nb, 3 wd, 5 lb, 4 b
+Fall of wickets: 168/1 (15.1 ov), 206/2 (19.0 ov), 208/3 (19.2 ov), 210/4 (19.4 ov), 247/5 (23.0 ov), 249/6 (23.3 ov)
+Partnerships: 
++---------------+---------------+------+-------+
+|   Batsman 1   |   Batsman 2   | Runs | Balls |
++---------------+---------------+------+-------+
+|  Alex Carey   |  Adam Zampa   | 168  |  146  |
+|  Adam Zampa   |  Ashton Agar  |  38  |  49   |
+|  Axar Patel   |  Ashton Agar  |  2   |   2   |
+|  Ashton Agar  | Cameron Green |  2   |   9   |
+| David Warner  | Cameron Green |  37  |  41   |
+| Cameron Green | Glenn Maxwell |  2   |   5   |
+| Glenn Maxwell | Hardik Pandya | 57*  |  50   |
++---------------+---------------+------+-------+
+Bowling: 
++----------------+-------+---------+------+---------+----------+-------+
+|     Bowler     | Overs | Maidens | Runs | Wickets | No balls | Wides |
++----------------+-------+---------+------+---------+----------+-------+
+| Josh Hazlewood |  6.0  |    0    |  42  |    0    |    0     |   0   |
+| Marcus Stoinis | 10.0  |    0    |  54  |    3    |    0     |   1   |
+| Mitchell Marsh | 10.0  |    0    |  49  |    1    |    1     |   1   |
+| Mitchell Starc |  9.0  |    0    |  47  |    2    |    1     |   0   |
+| Mohammed Shami |  2.0  |    0    |  17  |    0    |    0     |   0   |
+| Mohammed Siraj |  3.0  |    0    |  16  |    0    |    0     |   0   |
+|  Pat Cummins   | 10.0  |    0    |  65  |    0    |    0     |   1   |
++----------------+-------+---------+------+---------+----------+-------+
+
+
+B innings 26.4 overs
+144/10
+
++--------------------+------+-------+----+----+-------+---------+
+|      Batsman       | Runs | Balls | 4s | 6s |  SR   | Status  |
++--------------------+------+-------+----+----+-------+---------+
+|   Josh Hazlewood   |  9   |   9   | 2  | 0  | 100.0 |   out   |
+|    Josh Inglis     |  4   |   5   | 0  | 0  | 80.0  |   out   |
+|      KL Rahul      |  38  |  38   | 3  | 0  | 100.0 |   out   |
+|   Kuldeep Yadav    |  1   |   2   | 0  | 0  | 50.0  |   out   |
+|   Marcus Stoinis   |  6   |  12   | 0  | 0  | 50.0  |   out   |
+| Marnus Labuschagne |  14  |  15   | 1  | 0  | 93.33 |   out   |
+|   Mitchell Marsh   |  31  |  38   | 1  | 2  | 81.58 |   out   |
+|   Mitchell Starc   |  14  |  19   | 1  | 0  | 73.68 |   out   |
+|   Mohammed Shami   |  6   |  12   | 0  | 0  | 50.0  |   out   |
+|   Mohammed Siraj   |  3   |   6   | 0  | 0  | 50.0  |   out   |
+|    Pat Cummins     |  1   |   3   | 0  | 0  | 33.33 | not out |
++--------------------+------+-------+----+----+-------+---------+
+Extras: 2 nb, 5 wd, 1 lb, 2 b
+Fall of wickets: 11/1 (0.5 ov), 16/2 (1.2 ov), 22/3 (2.1 ov), 31/4 (3.4 ov), 79/5 (8.0 ov), 88/6 (8.4 ov), 122/7 (12.0 ov), 132/8 (13.3 ov), 138/9 (14.2 ov), 144/10 (15.0 ov)
+Partnerships: 
++--------------------+----------------+------+-------+
+|     Batsman 1      |   Batsman 2    | Runs | Balls |
++--------------------+----------------+------+-------+
+|   Josh Hazlewood   |  Josh Inglis   |  11  |  11   |
+|    Josh Inglis     |    KL Rahul    |  5   |   4   |
+|   Kuldeep Yadav    |    KL Rahul    |  6   |   6   |
+|   Marcus Stoinis   |    KL Rahul    |  9   |  18   |
+| Marnus Labuschagne |    KL Rahul    |  48  |  40   |
+|      KL Rahul      | Mitchell Marsh |  9   |  14   |
+|   Mitchell Starc   | Mitchell Marsh |  34  |  36   |
+|   Mohammed Shami   | Mitchell Marsh |  10  |  19   |
+|   Mohammed Siraj   | Mitchell Marsh |  6   |   8   |
+|   Mitchell Marsh   |  Pat Cummins   |  6   |   6   |
+|   Mitchell Marsh   |  Pat Cummins   |  0*  |   0   |
++--------------------+----------------+------+-------+
+Bowling: 
++----------------+-------+---------+------+---------+----------+-------+
+|     Bowler     | Overs | Maidens | Runs | Wickets | No balls | Wides |
++----------------+-------+---------+------+---------+----------+-------+
+|   Adam Zampa   |  4.4  |    0    |  21  |    2    |    0     |   0   |
+|   Axar Patel   | 10.0  |    0    |  52  |    3    |    1     |   1   |
+| Hardik Pandya  |  3.0  |    0    |  12  |    2    |    1     |   1   |
+| Jasprit Bumrah |  9.0  |    0    |  49  |    3    |    0     |   3   |
++----------------+-------+---------+------+---------+----------+-------+
+
+A won the match by 162 runs
+
+Man of the match: Daryl Mitchell
+---------------------------------------------------------------------------------------------------
+
+Session_20260612_005404:
+
+England innings 50.0 overs
+367/9
+
++---------------+------+-------+----+----+--------+---------+
+|    Batsman    | Runs | Balls | 4s | 6s |   SR   | Status  |
++---------------+------+-------+----+----+--------+---------+
+|  Ben Duckett  |  15  |  15   | 1  | 0  | 100.0  |   out   |
+|  Jos Buttler  | 176  |  123  | 8  | 12 | 143.09 |   out   |
+|  Harry Brook  |  67  |  60   | 7  | 2  | 111.67 |   out   |
+| Jacob Bethell |  0   |   1   | 0  | 0  |  0.0   |   out   |
+|   Joe Root    |  18  |  17   | 2  | 0  | 105.88 |   out   |
+|  Ben Stokes   |  35  |  33   | 0  | 1  | 106.06 |   out   |
+|  Tom Banton   |  6   |   7   | 1  | 0  | 85.71  |   out   |
+| Jofra Archer  |  8   |  12   | 0  | 0  | 66.67  |   out   |
+| Gus Atkinson  |  13  |  18   | 1  | 0  | 72.22  |   out   |
+|   Mark Wood   |  5   |   9   | 0  | 0  | 55.56  | not out |
+|  Adil Rashid  |  1   |   1   | 0  | 0  | 100.0  | not out |
++---------------+------+-------+----+----+--------+---------+
+Extras: 1 nb, 6 wd, 4 lb, 1 b
+Fall of wickets: 44/1 (4.1 ov), 231/2 (16.4 ov), 231/3 (16.5 ov), 290/4 (21.4 ov), 318/5 (24.4 ov), 329/6 (25.5 ov), 340/7 (27.2 ov), 350/8 (28.4 ov), 366/9 (30.4 ov)
+Partnerships: 
++---------------+--------------+------+-------+
+|   Batsman 1   |  Batsman 2   | Runs | Balls |
++---------------+--------------+------+-------+
+|  Ben Duckett  | Jos Buttler  |  44  |  36   |
+|  Harry Brook  | Jos Buttler  | 187  |  124  |
+| Jacob Bethell | Jos Buttler  |  0   |   1   |
+|   Joe Root    | Jos Buttler  |  59  |  48   |
+|  Jos Buttler  |  Ben Stokes  |  28  |  33   |
+|  Tom Banton   |  Ben Stokes  |  11  |  11   |
+|  Ben Stokes   | Jofra Archer |  11  |   9   |
+| Jofra Archer  | Gus Atkinson |  10  |  16   |
+| Gus Atkinson  |  Mark Wood   |  16  |  21   |
+|  Adil Rashid  |  Mark Wood   |  1*  |   2   |
++---------------+--------------+------+-------+
+Bowling: 
++-------------------+-------+---------+------+---------+----------+-------+
+|      Bowler       | Overs | Maidens | Runs | Wickets | No balls | Wides |
++-------------------+-------+---------+------+---------+----------+-------+
+|  Glenn Phillips   | 10.0  |    0    |  69  |    3    |    0     |   2   |
+| Michael Bracewell | 10.0  |    0    |  80  |    0    |    0     |   1   |
+| Mitchell Santner  | 10.0  |    0    |  54  |    2    |    1     |   1   |
+|    Zak Foulkes    |  3.0  |    0    |  11  |    3    |    0     |   0   |
+|    Matt Henry     |  7.0  |    0    |  47  |    1    |    0     |   1   |
+|   Kyle Jamieson   | 10.0  |    0    |  90  |    0    |    0     |   1   |
++-------------------+-------+---------+------+---------+----------+-------+
+
+
+New Zealand innings 48.1 overs
+368/7
+
++-------------------+------+-------+----+----+--------+---------+
+|      Batsman      | Runs | Balls | 4s | 6s |   SR   | Status  |
++-------------------+------+-------+----+----+--------+---------+
+|   Devon Conway    |  0   |   1   | 0  | 0  |  0.0   |   out   |
+|  Henry Nicholls   |  0   |   1   | 0  | 0  |  0.0   |   out   |
+|    Will Young     |  23  |  27   | 2  | 0  | 85.19  |   out   |
+|  Daryl Mitchell   | 210  |  143  | 13 | 11 | 146.85 |   out   |
+|  Glenn Phillips   |  20  |  19   | 0  | 2  | 105.26 |   out   |
+| Michael Bracewell |  93  |  93   | 4  | 4  | 100.0  |   out   |
+| Mitchell Santner  |  0   |   1   | 0  | 0  |  0.0   |   out   |
+|   Tom Blundell    |  4   |   4   | 0  | 0  | 100.0  | not out |
+|    Zak Foulkes    |  1   |   1   | 0  | 0  | 100.0  | not out |
++-------------------+------+-------+----+----+--------+---------+
+Did not bat: Matt Henry, Kyle Jamieson
+Extras: 4 nb, 4 wd, 3 lb, 0 b
+Fall of wickets: 0/1 (0.1 ov), 7/2 (0.5 ov), 68/3 (6.4 ov), 104/4 (10.0 ov), 354/5 (29.2 ov), 354/6 (29.3 ov), 366/7 (30.4 ov)
+Partnerships: 
++-------------------+----------------+------+-------+
+|     Batsman 1     |   Batsman 2    | Runs | Balls |
++-------------------+----------------+------+-------+
+|   Devon Conway    | Henry Nicholls |  0   |   1   |
+|  Henry Nicholls   |   Will Young   |  7   |   4   |
+|    Will Young     | Daryl Mitchell |  61  |  49   |
+|  Glenn Phillips   | Daryl Mitchell |  36  |  32   |
+| Michael Bracewell | Daryl Mitchell | 250  |  195  |
+| Mitchell Santner  | Daryl Mitchell |  0   |   1   |
+|  Daryl Mitchell   |  Tom Blundell  |  12  |   8   |
+|   Tom Blundell    |  Zak Foulkes   |  2   |   3   |
++-------------------+----------------+------+-------+
+Bowling: 
++---------------+-------+---------+------+---------+----------+-------+
+|    Bowler     | Overs | Maidens | Runs | Wickets | No balls | Wides |
++---------------+-------+---------+------+---------+----------+-------+
+| Jacob Bethell |  9.0  |    0    |  38  |    0    |    0     |   1   |
+|  Ben Stokes   |  2.0  |    0    |  20  |    1    |    0     |   0   |
+| Jofra Archer  | 10.0  |    0    | 105  |    1    |    0     |   0   |
+| Gus Atkinson  | 10.0  |    0    |  67  |    0    |    1     |   1   |
+|   Mark Wood   |  8.0  |    0    |  53  |    1    |    2     |   1   |
+|  Adil Rashid  |  9.1  |    0    |  76  |    4    |    1     |   1   |
++---------------+-------+---------+------+---------+----------+-------+
+
+New Zealand won the match by 3 wickets
+
+Man of the match: Devon Conway
+---------------------------------------------------------------------------------------------------
+
+Session_20260612_005404:
+
+England innings 50.0 overs
+383/7
+
++---------------+------+-------+----+----+--------+---------+
+|    Batsman    | Runs | Balls | 4s | 6s |   SR   | Status  |
++---------------+------+-------+----+----+--------+---------+
+|  Ben Duckett  |  49  |  44   | 4  | 0  | 111.36 |   out   |
+|  Jos Buttler  |  12  |   4   | 1  | 1  | 300.0  |   out   |
+|  Harry Brook  |  54  |  52   | 5  | 2  | 103.85 |   out   |
+| Jacob Bethell |  6   |   7   | 0  | 0  | 85.71  |   out   |
+|   Joe Root    |  78  |  80   | 6  | 0  |  97.5  |   out   |
+|  Ben Stokes   |  45  |  32   | 1  | 4  | 140.62 |   out   |
+|  Tom Banton   |  86  |  56   | 8  | 2  | 153.57 |   out   |
+| Jofra Archer  |  21  |  18   | 0  | 2  | 116.67 | not out |
+| Gus Atkinson  |  7   |   7   | 0  | 0  | 100.0  | not out |
++---------------+------+-------+----+----+--------+---------+
+Did not bat: Mark Wood, Adil Rashid
+Extras: 5 nb, 3 wd, 1 lb, 4 b
+Fall of wickets: 13/1 (0.5 ov), 108/2 (9.1 ov), 130/3 (11.0 ov), 141/4 (12.1 ov), 206/5 (17.2 ov), 346/6 (29.2 ov), 368/7 (31.2 ov)
+Partnerships: 
++---------------+--------------+------+-------+
+|   Batsman 1   |  Batsman 2   | Runs | Balls |
++---------------+--------------+------+-------+
+|  Jos Buttler  | Ben Duckett  |  13  |   5   |
+|  Harry Brook  | Ben Duckett  |  95  |  81   |
+| Jacob Bethell | Ben Duckett  |  22  |  20   |
+|  Ben Duckett  |   Joe Root   |  11  |  13   |
+|  Ben Stokes   |   Joe Root   |  65  |  46   |
+|  Tom Banton   |   Joe Root   | 140  |  106  |
+|   Joe Root    | Jofra Archer |  22  |  19   |
+| Gus Atkinson  | Jofra Archer | 15*  |  15   |
++---------------+--------------+------+-------+
+Bowling: 
++------------------+-------+---------+------+---------+----------+-------+
+|      Bowler      | Overs | Maidens | Runs | Wickets | No balls | Wides |
++------------------+-------+---------+------+---------+----------+-------+
+|  Glenn Phillips  |  3.0  |    0    |  17  |    0    |    0     |   0   |
+| Kristian Clarke  | 10.0  |    0    |  69  |    1    |    1     |   0   |
+| Mitchell Santner |  8.0  |    0    |  55  |    1    |    1     |   0   |
+|   Zak Foulkes    | 10.0  |    0    |  80  |    2    |    2     |   0   |
+|    Matt Henry    |  9.0  |    0    |  62  |    1    |    0     |   1   |
+|  Kyle Jamieson   | 10.0  |    0    |  83  |    2    |    1     |   2   |
++------------------+-------+---------+------+---------+----------+-------+
+
+
+New Zealand innings 50.0 overs
+315/9
+
++------------------+------+-------+----+----+--------+---------+
+|     Batsman      | Runs | Balls | 4s | 6s |   SR   | Status  |
++------------------+------+-------+----+----+--------+---------+
+|   Devon Conway   |  86  |  65   | 11 | 1  | 132.31 |   out   |
+|  Henry Nicholls  |  34  |  40   | 3  | 0  |  85.0  |   out   |
+|    Will Young    |  32  |  19   | 5  | 0  | 168.42 |   out   |
+|  Daryl Mitchell  |  18  |  21   | 1  | 1  | 85.71  |   out   |
+|  Glenn Phillips  |  11  |   9   | 0  | 1  | 122.22 |   out   |
+| Kristian Clarke  |  20  |  20   | 2  | 0  | 100.0  |   out   |
+| Mitchell Santner |  57  |  60   | 2  | 1  |  95.0  | not out |
+|   Tom Blundell   |  8   |  12   | 0  | 0  | 66.67  |   out   |
+|   Zak Foulkes    |  14  |  21   | 1  | 0  | 66.67  |   out   |
+|    Matt Henry    |  18  |  31   | 0  | 0  | 58.06  |   out   |
+|  Kyle Jamieson   |  0   |   1   | 0  | 0  |  0.0   | not out |
++------------------+------+-------+----+----+--------+---------+
+Extras: 3 nb, 2 wd, 2 lb, 2 b
+Fall of wickets: 110/1 (9.4 ov), 155/2 (13.1 ov), 163/3 (14.0 ov), 183/4 (15.4 ov), 204/5 (17.5 ov), 230/6 (20.2 ov), 252/7 (23.2 ov), 288/8 (27.1 ov), 315/9 (30.3 ov)
+Partnerships: 
++------------------+------------------+------+-------+
+|    Batsman 1     |    Batsman 2     | Runs | Balls |
++------------------+------------------+------+-------+
+|  Henry Nicholls  |   Devon Conway   | 110  |  90   |
+|   Devon Conway   |    Will Young    |  45  |  32   |
+|    Will Young    |  Daryl Mitchell  |  8   |   7   |
+|  Glenn Phillips  |  Daryl Mitchell  |  20  |  14   |
+|  Daryl Mitchell  | Kristian Clarke  |  21  |  23   |
+| Kristian Clarke  | Mitchell Santner |  26  |  23   |
+|   Tom Blundell   | Mitchell Santner |  22  |  26   |
+|   Zak Foulkes    | Mitchell Santner |  36  |  44   |
+|    Matt Henry    | Mitchell Santner |  27  |  43   |
+| Mitchell Santner |  Kyle Jamieson   |  0*  |   1   |
++------------------+------------------+------+-------+
+Bowling: 
++---------------+-------+---------+------+---------+----------+-------+
+|    Bowler     | Overs | Maidens | Runs | Wickets | No balls | Wides |
++---------------+-------+---------+------+---------+----------+-------+
+| Jacob Bethell | 10.0  |    0    |  43  |    2    |    1     |   0   |
+| Jofra Archer  | 10.0  |    0    |  76  |    4    |    1     |   0   |
+| Gus Atkinson  | 10.0  |    0    |  62  |    1    |    0     |   0   |
+|   Mark Wood   | 10.0  |    0    |  55  |    1    |    1     |   1   |
+|  Adil Rashid  | 10.0  |    0    |  67  |    1    |    0     |   1   |
++---------------+-------+---------+------+---------+----------+-------+
+
+England won the match by 68 runs
+
+Man of the match: Ben Duckett
+---------------------------------------------------------------------------------------------------
+
+Session_20260612_011151:
+
+A innings 50.0 overs
+321/5
+
++-------------+------+-------+----+----+--------+---------+
+|   Batsman   | Runs | Balls | 4s | 6s |   SR   | Status  |
++-------------+------+-------+----+----+--------+---------+
+| Alex Carey  |  73  |  69   | 7  | 1  | 105.8  |   out   |
+| Adam Zampa  |  3   |   8   | 0  | 0  |  37.5  |   out   |
+| Adil Rashid |  16  |  30   | 1  | 0  | 53.33  |   out   |
+| Ashton Agar |  2   |   5   | 0  | 0  |  40.0  |   out   |
+| Axar Patel  |  81  |  76   | 4  | 3  | 106.58 |   out   |
+| Ben Duckett |  96  |  75   | 8  | 1  | 128.0  | not out |
+| Ben Stokes  |  24  |  37   | 1  | 0  | 64.86  | not out |
++-------------+------+-------+----+----+--------+---------+
+Did not bat: Cameron Green, Cooper Connolly, Daryl Mitchell, David Warner
+Extras: 5 nb, 5 wd, 5 lb, 0 b
+Fall of wickets: 25/1 (1.5 ov), 80/2 (7.3 ov), 92/3 (8.5 ov), 110/4 (11.2 ov), 264/5 (24.4 ov)
+Partnerships: 
++-------------+-------------+------+-------+
+|  Batsman 1  |  Batsman 2  | Runs | Balls |
++-------------+-------------+------+-------+
+| Adam Zampa  | Alex Carey  |  25  |  23   |
+| Adil Rashid | Alex Carey  |  55  |  61   |
+| Ashton Agar | Alex Carey  |  12  |  11   |
+| Alex Carey  | Axar Patel  |  18  |  31   |
+| Axar Patel  | Ben Duckett | 154  |  114  |
+| Ben Stokes  | Ben Duckett | 57*  |  65   |
++-------------+-------------+------+-------+
+Bowling: 
++----------------+-------+---------+------+---------+----------+-------+
+|     Bowler     | Overs | Maidens | Runs | Wickets | No balls | Wides |
++----------------+-------+---------+------+---------+----------+-------+
+|  Zak Foulkes   | 10.0  |    0    |  47  |    1    |    0     |   2   |
+|  Travis Head   |  2.0  |    0    |  9   |    0    |    0     |   0   |
+| Glenn Maxwell  |  5.0  |    0    |  26  |    0    |    1     |   0   |
+| Glenn Phillips | 10.0  |    0    |  65  |    2    |    0     |   2   |
+|  Gus Atkinson  |  5.0  |    0    |  41  |    1    |    3     |   0   |
+| Hardik Pandya  | 10.0  |    0    |  78  |    1    |    0     |   0   |
+|  Harshit Rana  |  8.0  |    0    |  39  |    0    |    1     |   1   |
++----------------+-------+---------+------+---------+----------+-------+
+
+
+B innings 50.0 overs
+292/9
+
++------------------+------+-------+----+----+--------+---------+
+|     Batsman      | Runs | Balls | 4s | 6s |   SR   | Status  |
++------------------+------+-------+----+----+--------+---------+
+|   Zak Foulkes    |  0   |   1   | 0  | 0  |  0.0   |   out   |
+| Yashasvi Jaiswal |  66  |  61   | 6  | 1  | 108.2  |   out   |
+|    Will Young    |  7   |   8   | 0  | 0  |  87.5  |   out   |
+|   Virat Kohli    |  80  |  95   | 4  | 0  | 84.21  |   out   |
+|   Travis Head    |  22  |  14   | 3  | 1  | 157.14 |   out   |
+|   Tom Blundell   |  41  |  52   | 3  | 0  | 78.85  |   out   |
+|  Glenn Maxwell   |  0   |   1   | 0  | 0  |  0.0   |   out   |
+|  Glenn Phillips  |  25  |  27   | 1  | 0  | 92.59  |   out   |
+|   Gus Atkinson   |  2   |   4   | 0  | 0  |  50.0  |   out   |
+|  Hardik Pandya   |  7   |  10   | 0  | 0  |  70.0  | not out |
+|   Harshit Rana   |  18  |  22   | 2  | 0  | 81.82  | not out |
++------------------+------+-------+----+----+--------+---------+
+Extras: 2 nb, 5 wd, 4 lb, 3 b
+Fall of wickets: 0/1 (0.1 ov), 12/2 (1.3 ov), 132/3 (12.4 ov), 171/4 (15.5 ov), 228/5 (21.5 ov), 228/6 (22.0 ov), 262/7 (25.2 ov), 266/8 (25.5 ov), 268/9 (26.1 ov)
+Partnerships: 
++------------------+------------------+------+-------+
+|    Batsman 1     |    Batsman 2     | Runs | Balls |
++------------------+------------------+------+-------+
+|   Zak Foulkes    | Yashasvi Jaiswal |  0   |   1   |
+|    Will Young    | Yashasvi Jaiswal |  12  |  15   |
+| Yashasvi Jaiswal |   Virat Kohli    | 120  |  103  |
+|   Travis Head    |   Virat Kohli    |  39  |  35   |
+|   Virat Kohli    |   Tom Blundell   |  57  |  70   |
+|  Glenn Maxwell   |   Tom Blundell   |  0   |   1   |
+|   Tom Blundell   |  Glenn Phillips  |  34  |  37   |
+|  Glenn Phillips  |   Gus Atkinson   |  4   |   7   |
+|   Gus Atkinson   |  Hardik Pandya   |  2   |   3   |
+|   Harshit Rana   |  Hardik Pandya   | 24*  |  30   |
++------------------+------------------+------+-------+
+Bowling: 
++-----------------+-------+---------+------+---------+----------+-------+
+|     Bowler      | Overs | Maidens | Runs | Wickets | No balls | Wides |
++-----------------+-------+---------+------+---------+----------+-------+
+|   Adam Zampa    |  7.0  |    0    |  31  |    1    |    0     |   2   |
+|   Adil Rashid   |  3.0  |    0    |  12  |    1    |    0     |   0   |
+|   Ashton Agar   |  3.0  |    0    |  23  |    1    |    0     |   0   |
+|   Axar Patel    |  8.0  |    0    |  48  |    1    |    1     |   1   |
+|   Ben Stokes    |  5.0  |    0    |  28  |    0    |    0     |   1   |
+|  Cameron Green  | 10.0  |    0    |  42  |    3    |    1     |   0   |
+| Cooper Connolly |  4.0  |    0    |  28  |    0    |    0     |   1   |
+| Daryl Mitchell  | 10.0  |    0    |  63  |    2    |    0     |   0   |
++-----------------+-------+---------+------+---------+----------+-------+
+
+A won the match by 29 runs
+
